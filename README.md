@@ -24,7 +24,6 @@ We have also attached a JSON file that contains the data like Population, Coordi
 We've used latitudes and longitudes to plot markers; here’s how we did it:
 
 1. Create a base map
-2. Create a feature group for each category 
-fgv - for Volcanoes & fgp - for Population
+2. Create a feature group for each category i.e., fgv - for Volcanoes & fgp - for Population
 3. Then we add them to the feature groups
 4. Finally, add these feature groups and layer control to the map
